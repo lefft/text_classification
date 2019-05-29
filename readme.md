@@ -6,7 +6,7 @@
 
 ### get started 
 
-- see [`norc_text_clf_slides.html`](slides/norc_text_clf_slides.html) for presentation slides and code demos in action. 
+- see [`norc_text_clf_slides.pdf`](slides/norc_text_clf_slides.pdf) for presentation slides and code demos in action. 
 - all demo code and datasets referenced in the slides can be found in this repository. 
 
 
