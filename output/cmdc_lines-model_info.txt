@@ -1,0 +1,6 @@
+fit_idx|accuracy|analyzer|ngram_range|lowercase|preprocessor
+1|0.623|word|(1, 1)|False|None
+2|0.623|word|(1, 1)|True|<function prep_text at 0x114fa7c80>
+3|0.650|word|(1, 2)|True|<function prep_text at 0x114fa7c80>
+4|0.639|char|(1, 3)|True|<function prep_text at 0x114fa7c80>
+5|0.803|char|(1, 3)|False|None

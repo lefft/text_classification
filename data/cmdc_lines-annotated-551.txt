@@ -1,0 +1,553 @@
+label|text
+o|Uh-huh.
+q|Who's this priest I'm thanking?
+d|That's right.
+o|Nice to meet you, Ma'am.
+d|Read a lot about you, Nick.
+o|I... submit to Our Lord.
+d|It's not a Nelwyn baby.
+d|I met a Presidential aide once at a social occasion.
+d|I gave up my castles and my lands!
+q|What can I do for you?
+o|Good luck, sir.
+q|Where can we go?
+d|Clients come and go.
+d|It relaxes me.
+d|Merlin, I didn't know --
+d|I haven't read that.
+d|You hunt us like animals -- do you know how many you have slaughtered?!
+c|Pull it right now or I'll blow your fucking head off and pull it myself!
+d|I didn't.
+q|So why did you come to my casino?
+d|We provide opera.
+q|Jon, where are we?
+c|No, let's go.
+q|Are you telling me Friedman didnt tell you I was here looking for him?
+d|Gonna pluck us off the tit.
+d|Yeah, cured polio.
+d|Mom, I heard someone downstairs!
+d|We're not talking, you're talking, and doing too damn much of it, if you ask me.
+d|Maybe they're as scared of us as we are of them.
+q|Did ya get the message, kid?
+d|Just because it's a love story doesn't mean it can't have a decapitation or two.
+d|We've certainly been in some swell jams.
+d|He understands me fine.
+o|Nothing you can't show up for with a stain.
+d|I still don't see you.
+q|No, what?
+q|What's in the back?
+d|I think he was running a test on an old rocket engine... and one of the fuel cells burst.
+d|The power went out in half the park.
+c|Go to sleep.
+q|It worked out alright, didn't it?
+c|Forget about it.
+d|I wouldn't say anything--I would act.
+d|All the time I've known you, you've never once asked about him.
+q|What's your twenty?
+d|Whoever they are -- this goes right back to Dallas -- it goes right back to the bombing --
+q|You're saying God did it?
+o|Hi, Dad.
+d|I can spare me...
+d|NO, YOU HAVE TO KILL ME.
+d|With light clothing and no supplies, this is nobody's territory.
+q|He was in love with you, right?
+q|Don't you ever stop talking?
+d|No, it grosses me out even thinking of putting something in my eye.
+q|How's it going?
+d|They're powering their forward weapons array.
+d|I'm not even good for me.
+d|They're in the approach corridor.
+q|Can I have this?
+d|I don't know, maybe you did kill somebody.
+q|Did he come here too?
+d|So talk to us about something.
+q|Benjamin, is this your first time?
+q|But, if they send you away, then what is to become of me?
+o|You got to be fucking joking.
+d|We just smeared a skunk.
+d|Well, the twelve o'clock show is completely different than the nine.
+d|Quantum is up thirty-five.
+q|Will he wish to know the details of this night?
+d|Ugh, I hate when that happens.
+q|Yes, aren't you?
+d|Jack was only at that branch once when he took the box years ago.
+q|What about his first born?
+q|Where did he get a hundred grand?
+d|You're a policeman.
+o|Not a Plymouth Fury, I bet.
+o|Oh, come on.
+d|Kind of wish I didn't.
+q|Scotty -- what's left?
+q|You didn't bother to find out, did you?
+d|I'll take him.
+d|I wish you wouldn't.
+q|It's doing what?
+q|Is this where you live?
+d|That's where my father was killed.
+q|You worried about the cost?
+q|You want to ask me a question?
+c|Sonny, be reasonable!
+d|I don't have a pre-nup
+o|Like I'm going to pay twenty bucks to see Neil Moynihan in some band that I helped start.
+q|What's the story?
+q|She has all the cooking talent.
+c|Hush up such talk, Jabez!
+d|I don't know what I've done.
+c|Not now, pick me up.
+o|Oh, he's adorable, Annie.
+d|I'm in here.
+d|They'll be okay if they know enough to stay in outta the rain.
+q|Why's that?
+d|I ain't askin' what you'll do after you get out, because I'm gonna be dead and it don't matter.
+q|When you're frozen, you're legally dead, right?
+q|Jeez. That's not a helluva lot, is it?
+q|There's blood on your shirt.  Is that an integral part of your job?
+c|Stop bein' so damn understandin'.
+q|What'd I say again?
+o|You don't say?
+d|You find any cash in there, we'll whack it up with you.
+d|It'll bleed.
+d|I believe you still have my book.
+c|Leave the rice cake outside and go home!
+d|Captain, I don't know how much longer I can hold her together!
+q|Sergeant, is Commander Skywalker back yet?
+d|Look, you can't always like what you do. Sometimes you just do it because it's your job. And even if you don't like it, you just gotta do it anyway.
+d|It seems we <U>all</U> imagine God in our own image.
+q|Yeah, Mack, what is it?
+d|No, it isn't that.
+q|Did you hear what I said?
+d|So I'm told.
+d|You just got a Mickey.
+d|Good news travels fast....
+d|I'm looking for a party -- a merry party.
+d|I think you've forgotten something.
+d|I don't think that's how I would describe him.
+c|That's it -- the release lever -- look inside!
+q|How'd you know where to find me?
+q|So what's going on, Joel?
+o|Thanks, Pollux.
+d|She was good in bed, though.
+d|He asked to see a policeman, we're getting him a policeman.
+q|Are ya closed to the General Public or to just everybody.
+q|What, do you work for my boss, dog?
+q|And what happens when you lose?
+d|You always go with Andy.
+c|Play it for us, please.
+d|You're trying to get me to say something, that's why you're telling me all of this.
+q|So what do you think we're gonna talk about?
+d|Yeah, everything's under control.
+d|I asked for a policeman.
+d|I didn't mean to --
+d|Last week, about 3 A.M., Fish -- Dr. Fisher -- was on a late shift, and he found her doing laundry.
+d|Look, I'm real tired and I'm not interested in fucking chit-chat.
+d|Well, that's illuminating.
+d|We've been notified that they rejected the sentence...
+d|That noise don't come from no ordinary bird.
+d|There's nothing to see.
+q|Don't you have a maid?
+q|...how ya feeling, boy?
+q|Are you going to let us in on what exactly you're trying to prove --
+q|You're Mabel - her sister - aren't you?
+c|No, don't say anything else!
+d|I thought you were going to help Carl.
+q|Your not gonna marry him are you?
+d|I have a bad feeling about what you're doing.
+q|What's a buzzer?
+d|I pray for that.
+d|I don't know.
+d|That would hardly be proper.
+d|I'll call them, Lowell.
+d|This here's the desert an' we're right in it!
+d|Conor, you and I, we cannot be killed.
+q|Did you ever go to the Copa when I was away?
+q|Shall we?
+d|Well, I'm a college graduate --
+o|The last one you'll ever see.
+d|It is for me.
+o|Oh, me -
+q|You call this archaeology?
+q|That too tight?
+c|Steve, stop it please...
+o|What an excellent day for an exorcism.
+d|No need for divorce and that messy division-of-assets thing when they kick before you do.
+q|What if it encourages the Tooth Fairy to do something besides write?
+o|Thank you.
+o|How about tomorrow?
+o|Nice day
+q|You've been working on this, huh?
+d|I always liked ya so much...
+q|Jeanne... what are you doing?
+d|Beats fighting the flu, I'm here to tell you.
+d|Drunks are funny--
+d|Barely, yes.
+d|There are things you know for sure.
+c|Tell me the first thing that comes to your mind.
+q|Will you wait until the chump is played?
+q|Did your servant got word to Dr. Drossos?
+d|Oh, uh, I resigned.
+d|That guy in the cemetery today said he knew everything about Lauren.
+d|Just hangin' out.
+q|Why not?
+q|This is all figured at three cents a copy.
+o|Yah, okay, but, uh -
+o|Oh, yes!  Yes!
+d|I'm going to have to look into this.
+d|It's not his job -- It's my job!
+q|--you're a nurse, aren't you?
+d|You don't seem very cut up about it.
+q|How'd the show go?
+o|Yes, something was...
+o|See you tomorrow.
+o|Uh-huh. And?
+c|Arrest that woman!
+d|It is kinda romantic.
+d|I'm not a fool, Billy.
+d|They'll be here.
+d|Will, our offer starts you at eighty- four thousand a year, plus benefits.
+d|But you're going to tell us anyway...
+d|I know where Deauville is for C-C-Christ's sake.
+q|Is it a jamming device?
+q|Did she believe you?
+q|You're a 53 year old shrink, what are you gonna do?
+d|It's just that you strike me as a man trapped in a crisis of emotional direction, afflicted by a realization that the partner of your dreams is, quite simply, just that.
+o|Detonation in twenty minutes.
+d|You didnt seem to mind offering to help me on Christmas day when you were unwrapping that Prada bag I gave you.
+d|We're coming!
+q|How are you, Mr. Thatcher?
+o|...Night Shift, but you might...
+d|I felt so stupid just blowing those bubbles.
+c|Now let's not get into a big hassle-
+d|It pays to know your way around, Oliver.
+d|With eleven hundred he could come home, and that's the last thing I want.
+q|Isn't that what they always say?
+o|Like into one of the other 20 or so bathrooms they've got in this place.
+d|That's besides the point.
+q|What is it with this guy?
+d|I don't know about that?
+q|Who are you calling?
+o|Mm-hm.
+o|I could kill that no good son of a bitch!
+d|Aye, Toddy, there is something in what you say.
+d|You tell me your name, I'll tell you mine.
+q|You do know how to do that, don't you?
+o|To bring the word of God.
+d|H-he's so awkward and he's clumsy like me...
+d|I'll be at the restaurant. </pre> </html>
+q|What have you done to her?
+q|What are you talking about?
+d|It's like ringing the dinner bell.
+d|You were not.
+d|I don't know...
+q|Father, are you okay?
+d|We had the greatest afternoon of my life until Adrian made me tell her she had a heart-shaped ass.
+c|Say "Mmmerrick."
+d|I'll be there in 5 minutes.
+o|There you go.
+d|Something's wrong with the bio-scan.
+q|What brings you out to these parts?
+d|Nobody makes a car like them Nasis...
+c|Please, be quiet.
+c|~Don't shoot, G-Men..."
+d|I'm serious.
+q|Excuse me, but how old are you?
+c|I command you, as King of the Britons to stand aside.
+q|That obvious, huh?
+q|What part of Dixie are you from, Duane?
+q|Who's this guy I always see her around?
+d|I'll watch for him, sir.
+o|Well, when you put it that way.
+q|Know what else is in here?
+c|Stop now.
+d|But I just don't feel it.
+c|Include me in that.
+d|You've created a monster.
+q|Where do we start?
+d|I just need you to be safe.
+q|Michael, are you still in bed?
+d|That's all. I just liked smelling her hair.
+d|Well I guess Bill Munny wasn't no fearless killer an' bank robber like he said.
+q|Christ.  How'd you get here?
+d|These crowds are going to make it a bitch!
+o|A flower...
+d|I'm sorry, it was an accident.
+o|What a ridiculous thing to say.
+q|Who wants me to stop?
+q|When will Strader return?
+d|You should knock.
+o|Appreciate it, sir.
+q|What's your first move?
+o|Actually, yes.
+c|Dude, let's help Terrance and Phillip!!
+d|Maybe one day -- after you've been married twenty years you'll understand.
+d|I believe Agnes is different.
+q|About what?
+d|I didn't give any order to fire!
+c|Hold on --
+c|Leave her alone, you fiend!
+d|Why, you're the preacher!
+c|Why don't you come back up with me, Ronnie.
+q|Why don't you just take me back without it?
+q|Why do you care?
+d|I was just different.
+q|What'd he say?
+q|And what happens if I don't call you?
+q|Then what are you afraid of?
+o|For Heaven's sakes!
+d|This could be close.
+q|Now why is that?
+q|You all right, Professor Tripp?
+o|Oh my gosh...
+o|Okay, Mr. Book.
+q|How will they come at you?
+q|When you cut yourself pounding the door, did it hurt?
+q|What do you say, Toby?,
+q|Where were you going when you got in that cab?
+q|Jesus, you alright?
+q|Where do I pull off...?
+q|So, why'd you want to see me?
+d|Then these guys told me the police will find a huge amount of drugs inside the dead man's place.
+q|How's it look?
+d|No, I don't.
+o|Oh! Oh!
+q|What the hell does that mean?
+d|I'm going to have to report you to the Department of Health.
+d|I can't understand that.
+q|Your hole is healed, then?
+d|I haven't broken any laws.
+c|Get back!
+d|I'll be fine.
+q|What does your lawyer think?
+d|You paid off thirty grand I never owed.
+d|But in the Latin alphabet, "Jehovah" begins with an "I".
+o|Yes, Mr. Galvin?
+q|They sure knocked the stuffings out of you, didn't they?
+d|I think so too.
+q|What is <u>this</u>?
+d|I'm fine.
+q|Meet you in the lobby. Okay?
+d|She's going to help you understand what makes Sid 6.7 tick.
+d|I'll protect you, Dollface.
+q|What's going on?
+d|It's been a while.
+d|You should lock your doors.
+d|It'll just be a few days.
+c|If he's not there, try...  87 - 43 - 56.
+c|Did you bring Bob's weights?
+c|Go on! Get out!
+d|I do believe Mr. McCray will be most pleased with the tape of this one.
+d|I think she lives down by Pitt.
+d|I have my own little island.
+c|So tell Calvin.
+o|Oh, really.
+q|What do you want?
+c|Next time, remind me to do this out in the yard.
+q|What can I offer you, Eve?
+q|What makes you so sure this guy's gonna set up his own brother?
+q|What about dinner?
+o|Like you don't know.
+d|It would be worth the risk.
+o|Well, sure.
+d|She could buy and sell you ten times over.
+q|Do you like talk like that?
+q|What is it?
+c|Have lunch.
+q|Who are you, child?
+q|How long have you been waiting?
+q|Shall we be all right?
+q|Have you ever seen any, ah, pornographic movies, Jake?
+c|Make it so.
+q|And what's that?
+o|Goodbye.
+o|Be careful.
+q|You got a Tab?
+q|You mean she's dead?
+q|You got some kind of business with him?
+q|What do I gotta do?
+q|You got something on your mind?
+c|Don't ever let go.
+q|Where'd you go to college?
+q|It's him, isn't it?
+q|You love them, don't you?
+c|Trust me on it.
+d|You want to find them.
+q|What did the king say?
+q|Where's egghead?
+d|This is pretty.
+c|Tell me something before this stuff wears off and you start lying again.
+d|He must have left another puzzle piece.
+d|He can help you.
+d|I promised I wouldn't tell.
+d|What is it?
+q|Goddamnit, why do they do that?
+q|What did Bobby Vasquez used to call you?
+o|Three oclock.
+q|Did she say that?
+d|It ain't broke.
+d|I believe I can bring him back.
+o|Jackpot!  Two buckets
+c|Run it then.
+d|So you see, this post is very important to me right now.
+d|You can't keep me here.
+d|I could get the death penalty.
+d|Duff, I love you.
+d|Man, this guy is really good.
+c|Call the police!!
+q|You lived in the States for a while?
+o|Bye, house.
+c|You gotta be hard, Eddie.
+q|Can I see your I.D.?
+d|Today is bath day.
+c|Help!
+o|Holy shit!
+d|I'm glad.
+d|Sounds like a virus.
+d|Didn't look like chicken to me, more like fried pussy cat.
+c|Motherfucker... you stay away...
+d|She's crying.
+q|WHAT did you say?
+q|Can you move at all?
+d|I don't pretend I came over on the Mayflower--
+d|Guess you missed it.
+d|We need experience.
+d|You are upset.
+q|About what?
+d|You, too, Roy.
+d|No luck on Williams, yet -- call you back.
+q|She did, huh.
+q|Joe, you want me to shoot him for you?
+q|Then where's the goddamn Conway Twitty coming from?
+d|There's just one question.
+q|Now that that's settled, why not make the game a foursome?
+d|Will -- it'll go worse for us -- for Elizabeth, especially -- if we fight.
+o|All right.
+c|Tell me you checked the bus before we left, Carl.
+q|Any group pictures in the annual?
+d|I have to get you home by one.
+d|Dude, that movie was fucking sweet!
+d|That lady is back, sir.
+q|Was I at that dinner?
+c|Turn it off....
+d|They came all the way from Tarzana.
+d|We can be real quiet...
+d|She suffers from severe menstrual cramps.
+d|I'm telling you, it's the suits!
+d|Naw, son, I didn't kill nobody.
+o|Hi, Mom.
+d|No, I've never seen him before.
+q|Have you ever been inside?
+q|What kind of school?
+q|What is it?
+o|...four years ago...
+q|Are you okay?
+q|Five this week; how many the week before?
+d|Of course it's the place.
+q|Was there a priest?
+q|What whispers?
+c|Don't bother!
+c|Good boy.  Call us if you need anything.
+d|I can't find it.
+q|You're scared of Room 237, ain'tcha?
+d|Buff, that slice is the difference between life and death for 
+q|What are you doing for lunch?
+c|Stop!
+q|Why can't you just tell me?
+q|What was that about?
+d|Jesus, I'd go nuts if I had to work in an office all day.
+q|Does it have any favorites?
+o|Wow!  Well now-there-then!
+o|Oh no!
+d|There's been some trouble downtown.
+d|I don't need a doctor, I need a different job.
+c|Consider me ungrateful.
+c|Call me.
+c|Then let's have it.
+c|Hey Geraldine, let's eat!
+o|Oh, dear.
+c|Let's all get out of here, this place stinks.
+q|Anything new?
+c|Do it!  Just do it!
+d|I'm not scared.
+q|Did he say where?
+d|I think it's out of your control.
+q|Isn't it true that without Esparza, you had no investigation?
+o|Roger that.
+d|You can go first, Bob.
+o|Here, I'll take a dozen of those things. Miss Paine.
+q|What'd you tell your father?
+o|Excuse me.
+q|Then what'd you come here for?
+o|No, South Georgia.
+q|Are you okay?
+q|And what are you doing?
+q|You're a married man, am I right?
+q|Did who?
+q|Do you know where you are?
+o|But I thought...
+q|What was it?
+d|No it doesn't.
+q|The airport? Why? Are you leaving?
+c|Let it ride for a while.
+d|I don't stick my nose in nobody's business.
+q|What are you doing?
+d|Maybe, the Professor could help you with that.
+d|I want to work today, that's why I came...
+d|Your momma wasn't too proud when you came out neither, Wally.
+d|Yeah, in the land of the blind the one eye'd are king.
+d|You let me make a fool of myself.
+d|You never had it.
+q|What have they got you doing?
+o|I'm sorry, Mr. Basquiat.
+d|You don't look nothin' like me, mister.
+c|Try and burn through the ropes.
+o|Thank you.
+q|What for?
+c|Tie it to both ankles -- Leave two feet slack.
+d|I haven't been nice to you.
+q|Do you have to do that?
+q|What is your interest in this, Mr. Taylor?
+d|You're unbelievable.
+c|You do it.
+q|How'd you find out?
+d|Few have survived it.
+q|What's this?
+q|What do you want?
+q|Where did you get the gun?
+c|Go!
+q|What happened?
+o|I'm sorry.
+q|Don? Are you in with them?
+d|But king Arthur was always your favorite.
+d|You used to dance...
+d|Whilst you were sleeping, I fetched your ring.
+d|I don't believe you.
+q|How long you been married?
+q|Can we split now?
+q|Where's Wilma?
+q|Talk about what?
+c|Please don't.
+o|Fuck you.
+d|Yeah. It's stupid.
+d|I wanted to apologize.
+c|Please don't creep around this house.
+d|You live like a pig.
+d|They' re dead.
+q|Yes, but isn't midnight a little excessive?
+d|There's so much, and so much of it is dull...
+q|How do you stop The Screamer?
+d|You don't make money gambling. You lose it.
+c|Force the door.
+d|Well, I mean it more now.
+q|It scales, don't you think?
+q|What are the boys like?
+q|My God, what?
+d|I hope these are your shoes.
+d|And the surprise is there's nothing in it.
+c|Don't force it, you'll break it.
+c|Come on, gimme a break.
+o|Fuck procedure.
+q|No key, huh?
+c|Shit, yeah. Close it up.
+d|Or maybe it'll turn him back into a toad.
+q|But now it's free, right?
+q|We all set?
+d|But I've never served a day.

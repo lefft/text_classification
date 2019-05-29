@@ -1,7 +1,10 @@
 notes_to_self.md
+stream_of_consciousness.md
 
 **/_ignore
 **/__pycache__
 **/*.pyc
 **/*.html
 **/.DS_Store
+**/libs
+**/*_slides_files
